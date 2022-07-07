@@ -1,6 +1,6 @@
 # react_state
 
-### react的三种状态,useState,context,redux的使用示例
+### react的三种状态(useState,context,redux)以及自定义hooks的使用示例
 
 #### `installation`
 npm install or yarn install
