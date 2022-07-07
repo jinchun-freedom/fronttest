@@ -1,4 +1,6 @@
-# fronttest
+# react_state
+
+### react的三种状态,useState,context,redux的使用示例
 
 #### `installation`
 npm install or yarn install
